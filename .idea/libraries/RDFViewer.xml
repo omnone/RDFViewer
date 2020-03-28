@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RDFViewer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/RDFViewer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
